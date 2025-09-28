@@ -1,0 +1,1 @@
+I hate the new higher-pitched UI sounds in Android 16, especially the lock/unlock, low battery, and charger connection sounds, so I built this module to replace them with the old Android 15 sounds. Just install the zip in Magisk and you're good to go.
